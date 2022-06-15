@@ -30,12 +30,13 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Channel : [ProMovies](https://t.me/ProRequest_bot)
 
 ➥ Language : Python3
 
+➥ Group : [ProRequest](https://t.me/promoviesrequest)
+
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ OTT Updates : [ProOTT](https://t.me/ottandseriesmarveldcnewsupdates)
 """
